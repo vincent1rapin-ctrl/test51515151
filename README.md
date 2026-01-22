@@ -28,8 +28,7 @@
         }
         .user { text-align: right; color: blue; }
         .bot { text-align: left; color: green; }
-    </style>
-</head>
+        </head>
 <body>
     <!-- Intégrez ce div dans votre site web -->
     <div id="chatbot">
